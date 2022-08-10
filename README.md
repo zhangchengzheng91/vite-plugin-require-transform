@@ -23,7 +23,7 @@ yarn add -D vite-plugin-require-transform
 ```
 or 
 ```bash
-npm i vite-plugin-require-transform --save-dev
+npm i vite-plugin-require-transform --save-dev1234
 ```
 ## Usage
 ```typescript
